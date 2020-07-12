@@ -1,8 +1,8 @@
 {
-  "name": "int-proj",
+  "name": "sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nityam12.github.io/sample",
+  "homepage": "https://nityam12.github.io/sample1",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
